@@ -93,23 +93,23 @@
   text-decoration: none;
 }
 
-.message-top{
+.upper-message{
   margin:10px 0;
   display:flex;
 }
 
-.message-username{
+.message-user{
   font-size:16px;
   color:#434A54;
 }
 
-.message-time{
+.message-date{
   font-size:12px;
   color:#999;
   margin-left:10px;
 }
 
-.message-text{
+.lower-message{
   font-size:14px;
   color:#434A54;
   margin-bottom:40px;
